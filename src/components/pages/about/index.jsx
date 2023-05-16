@@ -12,7 +12,7 @@ import {
   usa_1,
 } from '../../imagepath'
 import Cilent from './silder/cilent'
-import Sponcer from './silder/sponcer'
+import Sponsor from './silder/sponsor'
 import Footer from '../../home/footer/Footer'
 import Header from '../../home/header'
 import { Link, useLocation } from 'react-router-dom'
@@ -301,7 +301,7 @@ const About = () => {
           <p className='partners-heading'>
             Over 5,26,000+ Sponsers being contact with us
           </p>
-          <Sponcer />
+          <Sponsor />
         </div>
       </div>
       {/* /Partners Section */}

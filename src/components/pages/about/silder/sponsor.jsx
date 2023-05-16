@@ -12,7 +12,7 @@ import {
 } from '../../../imagepath'
 import { Link } from 'react-router-dom'
 
-const Sponcer = () => {
+const Sponsor = () => {
   const settings = {
     // autoWidth: true,
     items: 2,
@@ -110,4 +110,4 @@ const Sponcer = () => {
     </>
   )
 }
-export default Sponcer
+export default Sponsor
